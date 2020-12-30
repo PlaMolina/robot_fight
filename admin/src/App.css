@@ -1,0 +1,8 @@
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    color: white;
+    display: flex;
+
+    align-items: space-around;
+  }

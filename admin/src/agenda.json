@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nom": "ana",
+        "email": "ana@gmail.com",
+        "tel": "666777",
+        "cotxe": false,
+        "moto": true,
+        "alta": "2020-10-01"
+    },
+    {
+        "id": 2,
+        "nom": "joan",
+        "email": "joan@gmail.com",
+        "tel": "888777",
+        "cotxe": true,
+        "moto": true,
+        "alta": "2019-10-01"
+    },
+    {
+        "id": 3,
+        "nom": "pere",
+        "email": "pere@gmail.com",
+        "tel": "333444",
+        "cotxe": false,
+        "moto": false,
+        "alta": "2017-06-06"
+    },
+    {
+        "id": 4,
+        "nom": "marta",
+        "email": "marta@gmail.com",
+        "tel": "655777",
+        "cotxe": true,
+        "moto": false,
+        "alta": "2020-10-01"
+    }
+]
